@@ -16,19 +16,19 @@
   <tr>
     <td>
 
-🌟 Began My Journey in Web Development with Programming Hero
+🌟 Started my Web Development journey with Programming Hero
 <br>
-💻 I am currently enrolled in a 6-month Full Stack Web Development course, expanding my expertise in both front-end and back-end technologies.
+💻 Currently enrolled in a 6-month Full Stack Development course, sharpening both front-end and back-end skills.
 <br>
-🚀 I have built several projects including a Food Donation & Collection platform and a Hobby Group website where users with similar interests can create and join groups.
+🚀 Built projects like a Food Donation platform and a Hobby Group site for community building.
 <br>
-🛠️ Currently, I'm developing a full stack application called ZapShift—a smart parcel management system that supports multiple user roles like sender, receiver, rider, and hub management.
+🛠️ Now developing ZapShift—a parcel management system with roles like sender, receiver, rider, and hub admin.
 <br>
-💬 Ask me about Javascript, Node js, Full Stack Development, or Mongodb.
+💬 Ask me about JavaScript, Node.js, MongoDB, and Full Stack Development.
 <br>
-🎯 I’m deeply interested in Artificial Intelligence, Helpfull Website Creating.
+🎯 Passionate about AI and building helpful web applications.
 <br>
-🎯 I strive for perfection in everything I build.
+⚡ I believe in clean code and strive for perfection.
 
 </td>
     <td>
