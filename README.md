@@ -18,7 +18,7 @@
 
 🌟 Started my Web Development journey with Programming Hero
 <br>
-💻 Currently enrolled in a 6-month Full Stack Development course, sharpening both front-end and back-end skills.
+💻 I have done a 6-month Full Stack Development course, sharpening both front-end and back-end skills.
 <br>
 🚀 Built projects like a Food Donation platform and a Hobby Group site for community building.
 <br>
