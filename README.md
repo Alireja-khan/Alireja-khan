@@ -1,5 +1,5 @@
-#Hi 👋, I'm Ali Reja  
-##A passionate Full Stack Developer from Bangladesh 🇧🇩.
+# Hi 👋, I'm Ali Reja  
+## A passionate Full Stack Developer from Bangladesh 🇧🇩.
 
 <!--
 **Alireja-khan/Alireja-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
