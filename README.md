@@ -3,8 +3,8 @@
      style="width:100%; max-width:1280px; height:350px; object-fit:cover; display:block; margin: 0 auto; border-radius: 10px;"/>
 
 
-# Hi 👋, I'm Ali Reja  
-## A passionate Full Stack Developer from Bangladesh 🇧🇩.
+<h1 align="center">Hi 👋, I'm Ali Reja</h1>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 <!--
 **Alireja-khan/Alireja-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
