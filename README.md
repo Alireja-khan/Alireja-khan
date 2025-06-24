@@ -44,6 +44,12 @@
 </table>
 
 
+### Follow Me On:
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+
 
 
 
