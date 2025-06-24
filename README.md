@@ -1,3 +1,5 @@
+<img src="[https://your-image-link.com/banner.png](https://i.ibb.co/Fb8fPK60/beautiful-office-space-cartoon-style.jpg)" alt="Ali Reja Cover" style="width:100%; height:auto;"/>
+
 # Hi 👋, I'm Ali Reja  
 ## A passionate Full Stack Developer from Bangladesh 🇧🇩.
 
