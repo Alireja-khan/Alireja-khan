@@ -16,19 +16,19 @@
   <tr>
     <td>
 
-🌟 **Began the Journey with Software Development in ASP.NET MVC**  
+🌟 Began My Journey in Web Development with Programming Hero
 <br>
-💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML.  
+💻 I am currently enrolled in a 6-month Full Stack Web Development course, expanding my expertise in both front-end and back-end technologies.
 <br>
-🌱 I am currently pursuing a degree in Computer Science.  
+🚀 I have built several projects including a Food Donation & Collection platform and a Hobby Group website where users with similar interests can create and join groups.
 <br>
-🛠️ I worked on .NET Framework and have hands-on experience in Full Stack.  
+🛠️ Currently, I'm developing a full stack application called ZapShift—a smart parcel management system that supports multiple user roles like sender, receiver, rider, and hub management.
 <br>
-💬 Ask me about Microsoft .NET framework, Full Stack Development, Python.  
+💬 Ask me about Javascript, Node js, Full Stack Development, or Mongodb.
 <br>
-🎯 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.  
+🎯 I’m deeply interested in Artificial Intelligence, Helpfull Website Creating.
 <br>
-🎯 I only like perfection.
+🎯 I strive for perfection in everything I build.
 
 </td>
     <td>
