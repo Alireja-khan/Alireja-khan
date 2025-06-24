@@ -75,8 +75,7 @@
 </p>
 
 
-
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 ![Ali Reja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alireja-khan&show_icons=true&theme=github_dark&border_radius=10&hide_title=true)
 
