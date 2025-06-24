@@ -9,7 +9,12 @@
 
 ## 🌟 About Me
 
-![</> Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alirejakhan&label=%3C%2F%3E%20Profile%20Views&color=blue&style=for-the-badge" style="border-radius: 8px; padding: 4px; background: #ffffff; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
+</p>
+
+
 ---
 
 🌟 **Began the Journey with Software Development in ASP.NET MVC**
