@@ -12,9 +12,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
 
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
 
 🌟 **Began the Journey with Software Development in ASP.NET MVC**  
 <br>
@@ -30,12 +29,9 @@
 <br>
 🎯 I only like perfection.
 
-</td>
-    <td>
-      <img src="https://i.ibb.co/ymTDCFPK/Programming-bro.png" width="250px" />
-    </td>
-  </tr>
-</table>
+  </div>
+ <img src="https://i.ibb.co/ymTDCFPK/Programming-bro.png" width="250px" />
+</div>
 
 
 
