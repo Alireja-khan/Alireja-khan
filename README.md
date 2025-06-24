@@ -60,6 +60,8 @@
 <br>
 <br>
 
+<h1 align="center">Hi 👋, I'm Ali Reja</h1>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 ## <h3 align="center">🛠️ Languages & Tools I Have Placed My Hands On:</h3>
 
