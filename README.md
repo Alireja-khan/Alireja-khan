@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=yellow&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=red&style=plastic)
 
 ---
 
