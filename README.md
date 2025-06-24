@@ -10,28 +10,33 @@
 ## 🌟 About Me
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alirejakhan&label=%3C%2F%3E%20Profile%20Views&color=blue&style=for-the-badge" style="border-radius: 8px; padding: 4px; background: #ffffff; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
-</p>
 
 
----
+<table>
+  <tr>
+    <td>
 
-🌟 **Began the Journey with Software Development in ASP.NET MVC**
-
-💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML.
-
-🌱 I am currently pursuing a degree in Computer Science.
-
-🛠️ I worked on .NET Framework and have hands-on experience in Full Stack.
-
-💬 Ask me about Microsoft .NET framework, Full Stack Development, Python.
-
-🎯 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.
-
+🌟 **Began the Journey with Software Development in ASP.NET MVC**  
+<br>
+💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML.  
+<br>
+🌱 I am currently pursuing a degree in Computer Science.  
+<br>
+🛠️ I worked on .NET Framework and have hands-on experience in Full Stack.  
+<br>
+💬 Ask me about Microsoft .NET framework, Full Stack Development, Python.  
+<br>
+🎯 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.  
+<br>
 🎯 I only like perfection.
 
----
+</td>
+    <td>
+      <img src="https://i.ibb.co/ymTDCFPK/Programming-bro.png" width="250px" />
+    </td>
+  </tr>
+</table>
+
 
 
 
