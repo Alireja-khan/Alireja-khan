@@ -6,6 +6,31 @@
 <h1 align="center">Hi 👋, I'm Ali Reja</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
+
+## 🌟 About Me
+
+![Profile Views]([https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat](https://i.ibb.co/ymTDCFPK/Programming-bro.png))
+
+---
+
+🌟 **Began the Journey with Software Development in ASP.NET MVC**
+
+💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML.
+
+🌱 I am currently pursuing a degree in Computer Science.
+
+🛠️ I worked on .NET Framework and have hands-on experience in Full Stack.
+
+💬 Ask me about Microsoft .NET framework, Full Stack Development, Python.
+
+🎯 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.
+
+🎯 I only like perfection.
+
+---
+
+
+
 <!--
 **Alireja-khan/Alireja-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
