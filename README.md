@@ -62,8 +62,9 @@
 
 
 ## <h3 align="center">🛠️ Languages & Tools I Have Placed My Hands On:</h3>
-<br>
 
+<hr style="border:1px solid #ccc; width:60%; margin:auto;">
+<br>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -75,8 +76,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-  <!-- Add others similarly -->
 </p>
+
 
 ## 📈 GitHub Stats
 
