@@ -76,13 +76,17 @@
 
 
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
-| Stats | Contributions | Current Streak | Longest Streak |
-|-------|----------------|----------------|----------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=radical&hide_border=true) | ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true) | |
+![Ali Reja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliReja-git&show_icons=true&theme=github_dark&border_radius=10&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliReja-git&layout=compact&theme=github_dark&border_radius=10)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AliReja-git&theme=github-dark&border_radius=10)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AliReja-git&theme=onedark&margin-w=10&no-bg=true)
+
+---
 
 ## 🚀 Tech Stack:
 
