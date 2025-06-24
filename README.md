@@ -12,25 +12,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-
-🌟 **Began the Journey with Software Development in ASP.NET MVC**  
-<br>
-💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML.  
-<br>
-🌱 I am currently pursuing a degree in Computer Science.  
-<br>
-🛠️ I worked on .NET Framework and have hands-on experience in Full Stack.  
-<br>
-💬 Ask me about Microsoft .NET framework, Full Stack Development, Python.  
-<br>
-🎯 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.  
-<br>
-🎯 I only like perfection.
-
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1; min-width: 200px;">
+    🌟 <strong>Began the Journey with Software Development in ASP.NET MVC</strong><br><br>
+    💻 I work on Front-end development and web designing when I am bored while focusing on Data Science and AI/ML.<br><br>
+    🌱 I am currently pursuing a degree in Computer Science.<br><br>
+    🛠️ I worked on .NET Framework and have hands-on experience in Full Stack.<br><br>
+    💬 Ask me about Microsoft .NET framework, Full Stack Development, Python.<br><br>
+    🎯 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.<br><br>
+    🎯 I only like perfection.
   </div>
- <img src="https://i.ibb.co/ymTDCFPK/Programming-bro.png" width="250px" />
+  <img src="https://i.ibb.co/ymTDCFPK/Programming-bro.png" width="250" alt="Programming Illustration" />
 </div>
 
 
