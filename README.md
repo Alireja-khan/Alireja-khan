@@ -78,6 +78,8 @@
 
 
 <h2 align="center">📈 GitHub Stats</h2>
+<br>
+<br>
 
 <div align="center"> <a href="https://github.com/Alireja-khan"> <img src="https://github-readme-stats.vercel.app/api?username=Alireja-khan&show_icons=true&theme=tokyonight&hide_title=true&border_radius=15" height="160"/> </a> <a href="https://github.com/Alireja-khan"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireja-khan&layout=compact&theme=tokyonight&border_radius=15" height="160"/> </a> <br/> <a href="https://github.com/Alireja-khan"> <img src="https://streak-stats.demolab.com?user=Alireja-khan&theme=tokyonight&border_radius=15" height="160"/> </a> <br/> <a href="https://github.com/Alireja-khan"> <img src="https://github-profile-trophy.vercel.app/?username=Alireja-khan&theme=gruvbox&margin-w=10&no-frame=true&row=1" /> </a> </div>
 
