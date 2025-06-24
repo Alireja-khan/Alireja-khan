@@ -60,13 +60,7 @@
 <br>
 <br>
 
-<h3 align="center">🛠️ Languages & Tools I Have Placed My Hands On:</h3>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
-
-## <h3 align="center">🛠️ Languages & Tools I Have Placed My Hands On:</h3>
-
-<hr style="border:1px solid #ccc; width:60%; margin:auto;">
-<br>
+## 🛠️ Languages & Tools I Have Placed My Hands On:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
