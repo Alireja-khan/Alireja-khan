@@ -57,9 +57,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<br>
+<br>
 
 
-## 🛠️ Languages & Tools I Have Placed My Hands On:
+## <h3 align="center">🛠️ Languages & Tools I Have Placed My Hands On:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
