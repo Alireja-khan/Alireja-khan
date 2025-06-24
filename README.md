@@ -9,8 +9,7 @@
 
 ## 🌟 About Me
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1.2k-blue?style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
+![</> Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
 
 ---
 
