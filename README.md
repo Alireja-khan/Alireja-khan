@@ -78,15 +78,16 @@
 
 ### 📈 GitHub Stats
 
-![Ali Reja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliReja-git&show_icons=true&theme=github_dark&border_radius=10&hide_title=true)
+![Ali Reja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alireja-khan&show_icons=true&theme=github_dark&border_radius=10&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliReja-git&layout=compact&theme=github_dark&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireja-khan&layout=compact&theme=github_dark&border_radius=10)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AliReja-git&theme=github-dark&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=Alireja-khan&theme=github-dark&border_radius=10)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=AliReja-git&theme=onedark&margin-w=10&no-bg=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Alireja-khan&theme=onedark&margin-w=10&no-bg=true)
 
 ---
+
 
 ## 🚀 Tech Stack:
 
