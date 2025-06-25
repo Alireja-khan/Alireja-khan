@@ -26,12 +26,9 @@
 <br>
 💻 I have done a 6-month Full Stack Development course, sharpening both front-end and back-end skills.
 <br>
-<br>
 🚀 Built projects like a Food Donation platform and a Hobby Group site for community building.
 <br>
-<br>
 🛠️ Now developing ZapShift—a parcel management system with roles like sender, receiver, rider, and hub admin.
-<br>
 <br>
 💬 Ask me about JavaScript, Node.js, MongoDB, and Full Stack Development.
 <br>
