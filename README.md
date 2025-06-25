@@ -16,6 +16,7 @@
   <tr>
     <td>
 📍 Based in Habiganj Sadar, Sylhet Bangladesh
+<br>         
 📧 Email: <a href="mailto:alirejakhan18@gmail.com">alirejakhan18@gmail.com</a>  
 <br>
 <br>
