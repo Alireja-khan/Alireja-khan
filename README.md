@@ -9,36 +9,44 @@
 
 ## 🌟 About Me
 ![Profile Views](https://komarev.com/ghpvc/?username=alirejakhan&label=Profile%20Views&color=blue&style=for-the-badge)
-<br><br>
+<br>
+<br>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px;">
+<table>
+  <tr>
+    <td>
+📍 Based in Habiganj Sadar, Sylhet Bangladesh
+<br>         
+📧 Email: <a href="mailto:alirejakhan18@gmail.com">alirejakhan18@gmail.com</a>  
+<br>
+<br>
+<br>
+🌟 Started my Web Development journey with Programming Hero
+<br>
+<br>
+💻 I have done a 6-month Full Stack Development course, sharpening both front-end and back-end skills.
+<br>
+<br>
+🚀 Built projects like a Food Donation platform and a Hobby Group site for community building.
+<br>
+<br>
+🛠️ Now developing ZapShift—a parcel management system with roles like sender, receiver, rider, and hub admin.
+<br>
+<br>
+💬 Ask me about JavaScript, Node.js, MongoDB, and Full Stack Development.
+<br>
+<br>
+🎯 Passionate about AI and building helpful web applications.
+<br>
+<br>
+⚡ I believe in clean code and strive for perfection.
 
-  <div style="flex: 1; min-width: 280px; max-width: 600px;">
-    📍 Based in Habiganj Sadar, Sylhet, Bangladesh  
-    <br>
-    📧 Email: <a href="mailto:alirejakhan18@gmail.com">alirejakhan18@gmail.com</a>
-    <br><br>
-
-    🌟 Started my Web Development journey with Programming Hero  
-    <br><br>
-    💻 Completed a 6-month Full Stack Development course, sharpening both front-end and back-end skills.  
-    <br><br>
-    🚀 Built projects like a Food Donation platform and a Hobby Group site for community building.  
-    <br><br>
-    🛠️ Currently developing ZapShift — a parcel management system with sender, receiver, rider & hub admin roles.  
-    <br><br>
-    💬 Ask me about JavaScript, Node.js, MongoDB, and Full Stack Development.  
-    <br><br>
-    🎯 Passionate about AI and building helpful web applications.  
-    <br><br>
-    ⚡ I believe in clean code and strive for perfection.  
-  </div>
-
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://i.ibb.co/ymTDCFPK/Programming-bro.png" width="250" alt="Programming Illustration" style="max-width: 100%; height: auto; border-radius: 10px;" />
-  </div>
-
-</div>
+</td>
+    <td>
+      <img src="https://i.ibb.co/ymTDCFPK/Programming-bro.png" width="250" alt="Programming Illustration" />
+    </td>
+  </tr>
+</table>
 
 
 
