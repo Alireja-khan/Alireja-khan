@@ -15,7 +15,12 @@
 <table>
   <tr>
     <td>
-
+📍 Based in Habiganj Sadar, Sylhet Bangladesh
+<br>
+<br>
+📧 Email: <a href="mailto:alirejakhan18@gmail.com">alirejakhan18@gmail.com</a>  
+<br>
+<br>
 🌟 Started my Web Development journey with Programming Hero
 <br>
 <br>
