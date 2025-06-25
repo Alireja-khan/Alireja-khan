@@ -78,8 +78,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/logo-500.svg" width="40"/>
-<img src="https://reactrouter.com/_brand/react-router-mark-color.svg" width="40"/>
 
 
 </p>
