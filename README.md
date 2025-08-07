@@ -3,12 +3,15 @@
      style="width:100%; max-width:1280px; height:350px; object-fit:cover; display:block; margin: 0 auto; border-radius: 10px;"/>
 
 
-<h1 align="center">Hi 👋, I'm Ali Reja</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h1>Hi 👋, I'm Ali Reja</h1>
+<h3>A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 
 # 💫 About Me:
-🚀 I specialize in building scalable, real-world web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). My expertise also includes Firebase authentication 🔐, JWT-based security, Tailwind CSS for responsive design 🎨, React Hook Form for seamless form handling 📝, and smooth animations with Framer Motion ✨.<br><br>💡 I enjoy crafting user-focused interfaces combined with robust backend logic to deliver efficient and maintainable solutions.<br><br>🛠 Some projects I’ve developed:<br>- 🏢 Aaponaloi – A comprehensive Building Management System (BMS)<br>- 🍲 FoodCircle – A community-driven food sharing platform<br>- 🎨 Hobby Hub – A social platform for hobby enthusiasts to share and connect<br><br>🤝 I’m always open to collaboration and new opportunities to build impactful web applications.<br>
+🚀 I specialize in building scalable, real-world web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). My expertise also includes Firebase authentication 🔐, JWT-based security, Tailwind CSS for responsive design 🎨, React Hook Form for seamless form handling 📝, and smooth animations with Framer Motion ✨.<br><br>💡 I enjoy crafting user-focused interfaces combined with robust backend logic to deliver efficient and maintainable solutions.<br><br>🛠 Some projects I’ve developed:<br>
+- 🏢 Aaponaloi – A comprehensive Building Management System (BMS)<br>
+- 🍲 FoodCircle – A community-driven food sharing platform<br>
+- 🎨 Hobby Hub – A social platform for hobby enthusiasts to share and connect<br><br>🤝 I’m always open to collaboration and new opportunities to build impactful web applications.<br>
 
 ## 📫 Let’s Talk:
 
