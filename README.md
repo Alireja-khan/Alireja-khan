@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co/4nwsS40F/Game-Developer-Resume-Website-in-Black-and-White-Grey-Simple-and-Minimal-Style.png" alt="Banner" width="1280" />
+  <img src="https://i.ibb.co.com/dH6c7Rk/Game-Developer-Resume-Website-in-Black-and-White-Grey-Simple-and-Minimal-Style-1.png" />
 </p>
- 
-     alt="Ali Reja Cover" 
-     style="width:100%; max-width:1280px; height:350px; object-fit:cover; display:block; margin: 0 auto; border-radius: 10px;"/>
 
 
 <h1>Hi 👋, I'm Ali Reja</h1>
