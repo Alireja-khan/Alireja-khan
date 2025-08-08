@@ -16,7 +16,7 @@
 ---
 
 ## 📍 Location & Contact
-- 📍 Dhaka, Bangladesh  
+- 📍 Sylhet, Bangladesh  
 
 ---
 
