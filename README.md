@@ -2,15 +2,8 @@
   <img src="https://i.ibb.co.com/5hVP2Nkr/Black-Technology-Linked-In-Banner.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ali Reja</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
-
----
-
-## 📍 Location & Contact
-- 📍 Dhaka, Bangladesh  
-- 📧 Email: **alirejakhan18@gmail.com**  
-- 📱 WhatsApp: **+8801733428976**
+<h1>Hi 👋, I'm Ali Reja</h1>
+<h3>A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
 ---
 
@@ -20,13 +13,23 @@
 🛠 Some of my key projects:  
 - 🏢 **Aaponaloi** – A comprehensive Building Management System (BMS)  
 - 🍲 **FoodCircle** – A community-driven food sharing platform  
-- 🎨 **Hobby Hub** – A social platform for hobby enthusiasts  
+- 🎨 **Hobby Hub** – A social platform for hobby enthusiasts
+
+---
+
+## 📍 Location & Contact
+- 📍 Dhaka, Bangladesh  
+
+---
+
+## 📫 Lets Talk
+- 📧 Email: **alirejakhan18@gmail.com**  
+- 📱 WhatsApp: **+8801733428976**
 
 ---
 
 ## 📌 Current Activities
-- 🌱 I’m currently learning **Next.js**  
-- 🚀 Working on a **tourism website** project  
+- 🔍 Diving deeper into **Next.js** for high-performance apps    
 - 📚 Exploring **React Query** & advanced UI animations  
 - 💬 Open to collaborating on impactful projects
 
