@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/SXhqJqSm/Black-Technology-Linked-In-Banner-2.png" />
+  <img src="https://i.ibb.co.com/5hVP2Nkr/Black-Technology-Linked-In-Banner.png" />
 </p>
 
 
