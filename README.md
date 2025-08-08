@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/5hVP2Nkr/Black-Technology-Linked-In-Banner.png" />
+  <img src="https://i.ibb.co.com/MD5WpgHG/Gray-Minimalist-Web-Development-Linkedin-Banner-1.png" />
 </p>
 
 <h1>Hi 👋, I'm Ali Reja</h1>
