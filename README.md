@@ -7,13 +7,11 @@
 
 ---
 
-## 💫 About Me
-🚀 I specialize in building scalable, real-world web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js).  
-💡 I love crafting user-focused interfaces with robust backend logic.  
-🛠 Some of my key projects:  
-- 🏢 **Aaponaloi** – A comprehensive Building Management System (BMS)  
-- 🍲 **FoodCircle** – A community-driven food sharing platform  
-- 🎨 **Hobby Hub** – A social platform for hobby enthusiasts
+# 💫 About Me:
+🚀 I specialize in building scalable, real-world web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). My expertise also includes Firebase authentication 🔐, JWT-based security, Tailwind CSS for responsive design 🎨, React Hook Form for seamless form handling 📝, and smooth animations with Framer Motion ✨.<br><br>💡 I enjoy crafting user-focused interfaces combined with robust backend logic to deliver efficient and maintainable solutions.<br><br>🛠 Some projects I’ve developed:<br>
+- 🏢 Aaponaloi – A comprehensive Building Management System (BMS)<br>
+- 🍲 FoodCircle – A community-driven food sharing platform<br>
+- 🎨 Hobby Hub – A social platform for hobby enthusiasts to share and connect<br><br>🤝 I’m always open to collaboration and new opportunities to build impactful web applications.<br>
 
 ---
 
