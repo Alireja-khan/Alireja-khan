@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/dH6c7Rk/Game-Developer-Resume-Website-in-Black-and-White-Grey-Simple-and-Minimal-Style-1.png" />
+  <img src="https://i.ibb.co.com/SXhqJqSm/Black-Technology-Linked-In-Banner-2.png" />
 </p>
 
 
